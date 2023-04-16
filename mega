@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>WOMIG: Helping Migrant Women and Climate Refugees
+</head></title>
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+			<p style="font-family: Times New Roman;">This text is in Times New Roman font.</p>
+			background-color: #f0fff0
+		}
+		header {
+			background-color: #008000;
+			color: #fff;
+			padding: 20px;
+			text-align: center;
+		}
+		nav {
+			margin-top: 10px;
+			display: flex;
+			justify-content: center;
+		}
+		nav ul {
+			list-style: none;
+			margin: 0;
+			padding: 0;
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+		}
+		nav li {
+			margin: 10px;
+			font-size: 28px;
+		}
+		nav a {
+			color: #fff;
+			text-decoration: none;
+			padding: 10px;
+			transition: all 0.1s ease;
+		}
+		nav a:hover {
+			background-color: #fff;
+			color: #008000; 
+		}
+		main {
+			max-width: 960px;
+			margin: 0 auto;
+			padding: 20px;
+		}
+		section {
+			margin-bottom: 50px;
+			border-bottom: 2px solid #e6e6e6;
+			padding-bottom: 20px;
+		}
+		section h2 {
+			margin-top: 0;
+			color: #008000; 
+			<<iframe
+  
+  
+</iframe>
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>WOMIG</h1>
+		<p>Helping Migrant Women and Climate Refugees</p>
+		<nav>
+			<ul>
+				<li><a href="#about">About</a></li>
+				<li><a href="#services">Services</a></li>
+				<li><a href="#contact">Contact Us</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section id="about">
+</head>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Website</title>
+</head>
+<body>
+  <h1>Explore Interactive Maps for Emergency Services, Local Resources, and Job Training/Education Options in Vulnerable Areas</h1>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d212960.82195888892!2d-122.52007621875001!3d37.70344088732799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fbf6af8f6e2c1%3A0x569d41b71778e03c!2sGolden%20Gate%20Bridge!5e0!3m2!1sen!2sus!4v1641481111317!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+</body>
+<img src="images/1.png.jpg" alt="A photo of me">
